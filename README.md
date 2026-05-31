@@ -87,6 +87,6 @@ python -m streamlit run face_detect.py
 
 <div align="center">
 
-<i>Architected with ❤️ for Computer Vision and AI @aman-space</i>
+
 
 </div>
